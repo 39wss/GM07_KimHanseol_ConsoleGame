@@ -1,0 +1,14 @@
+/Users/kimhanseol/cs/day18/ConsoleApp1/obj/Debug/net9.0/day18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimhanseol/cs/day18/ConsoleApp1/obj/Debug/net9.0/day18.AssemblyInfoInputs.cache
+/Users/kimhanseol/cs/day18/ConsoleApp1/obj/Debug/net9.0/day18.AssemblyInfo.cs
+/Users/kimhanseol/cs/day18/ConsoleApp1/obj/Debug/net9.0/day18.csproj.CoreCompileInputs.cache
+/Users/kimhanseol/cs/day18/ConsoleApp1/bin/Debug/net9.0/day18
+/Users/kimhanseol/cs/day18/ConsoleApp1/bin/Debug/net9.0/day18.deps.json
+/Users/kimhanseol/cs/day18/ConsoleApp1/bin/Debug/net9.0/day18.runtimeconfig.json
+/Users/kimhanseol/cs/day18/ConsoleApp1/bin/Debug/net9.0/day18.dll
+/Users/kimhanseol/cs/day18/ConsoleApp1/bin/Debug/net9.0/day18.pdb
+/Users/kimhanseol/cs/day18/ConsoleApp1/obj/Debug/net9.0/day18.dll
+/Users/kimhanseol/cs/day18/ConsoleApp1/obj/Debug/net9.0/refint/day18.dll
+/Users/kimhanseol/cs/day18/ConsoleApp1/obj/Debug/net9.0/day18.pdb
+/Users/kimhanseol/cs/day18/ConsoleApp1/obj/Debug/net9.0/day18.genruntimeconfig.cache
+/Users/kimhanseol/cs/day18/ConsoleApp1/obj/Debug/net9.0/ref/day18.dll
