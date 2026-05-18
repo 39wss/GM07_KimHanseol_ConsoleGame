@@ -1,8 +1,19 @@
-# 턴제 RPG 제작 과제
+# 콘솔 턴제 RPG 제작 과제
 
-스타듀밸리의 농부가 펠리칸 타운 외곽 광산을 탐험하며 몬스터를 처치하는 턴제 RPG
+스타듀밸리의 농부가 펠리칸 타운 외곽 광산을 탐험하며 몬스터를 처치하는 콘솔 턴제 RPG
 
-### 구현 기능
+
+
+## 출력 결과
+
+<img width="24.5%" align="top" alt="스크린샷 2026-05-17 오후 5 43 43" src="https://github.com/user-attachments/assets/a41f30e6-c0a5-4778-8b28-07333f3e70ce" />
+<img width="24.5%" align="top" alt="스크린샷 2026-05-17 오후 5 43 49" src="https://github.com/user-attachments/assets/b0d111f6-cbfd-43b1-a9bf-904cdf9d507c" />
+<img width="24.5%" align="top" alt="스크린샷 2026-05-17 오후 5 44 10" src="https://github.com/user-attachments/assets/2687bc5d-0db4-4bb3-9f7d-c3747b327fd1" />
+<img width="24.5%" align="top" alt="스크린샷 2026-05-17 오후 5 48 18" src="https://github.com/user-attachments/assets/856be878-d35b-4127-8e46-d9a9e732af1a" />
+
+
+
+## 구현 기능
 
 - 플레이어 이름 입력 후 게임 시작
 - 메인 메뉴에서 상점 / 인벤토리 / 광산 / 종료 선택
@@ -14,9 +25,9 @@
 - 1층 슬라임 → 2층 박쥐 → 3층 그림자 덩치 순서로 던전 진행
 - HP 0이면 광산 입장 불가
 
+  
 
-
-### 클래스 구조
+## 클래스 구조
 
 ```
 Character                           // 공통 속성/메서드 (Name, Hp, TakeDamage, IsAlive)
@@ -45,8 +56,7 @@ Item                                // Name, Price, Type 공통 속성
 ```
 
 
-
-### 사용한 컬렉션
+## 사용한 컬렉션
 
 List<Item> Inventory (Player.cs)
 
