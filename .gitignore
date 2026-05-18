@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+# C#
+bin/
+obj/
+
+
 # Object files
 *.o
 *.ko
